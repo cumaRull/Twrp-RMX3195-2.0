@@ -17,7 +17,7 @@
 #
 # 	Please maintain this if you use this script or any part of it
 #
-FDEVICE="RMX3191"
+FDEVICE="RMX3195"
 #set -o xtrace
 
 fox_get_target_device() {
