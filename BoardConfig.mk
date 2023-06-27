@@ -151,3 +151,15 @@ TW_INCLUDE_REPACKTOOLS := true
 # Debug
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
+
+# SHRP SETTINGS
+SHRP_MAINTAINER := ismasrull
+SHRP_REC_TYPE := normal
+SHRP_DEVICE_CODE := RMX3191
+SHRP_PATH := device/realme/RMX3191
+SHRP_DEVICE_TYPE := A/B
+SHRP_EXTERNAL := /external_sd
+SHRP_INTERNAL := /sdcard
+SHRP_OTG := /usb_otg
+SHRP_AB := true
+SHRP_EXPRESS := true
